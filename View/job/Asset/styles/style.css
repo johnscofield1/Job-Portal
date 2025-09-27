@@ -1,0 +1,123 @@
+body {
+    background-color: rgb(134, 173, 173);
+    font-family: Arial, sans-serif;
+}
+
+.top-bar {
+    background-color: rgb(134, 173, 173);
+    text-align: right;
+    border-radius: 8px;
+    padding: 15px;
+}
+
+.auth-buttons a {
+    padding: 10px 30px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+h1{
+    margin-right: 500px;
+}
+
+.signup-btn {
+    background-color: #4CAF50;
+}
+
+.login-btn {
+    background-color: #810513;
+}
+
+.main-field {
+    width: 800px;
+    background-color: antiquewhite;
+    border: none;
+    margin-top: 50px;
+    border-radius: 8px;
+}
+
+.welcome-title {
+    color: #235106;
+    margin: 0;
+    padding: 20px;
+}
+
+.content {
+    padding: 30px;
+    text-align: left;
+}
+
+.headline {
+    color: #810513;
+    line-height: 1.2;
+}
+
+.job-search {
+    margin-top: 30px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.job-search input,
+.job-search select {
+    padding: 10px;
+    border-radius: 4px;
+    margin-right: 10px;
+    width: 60%;
+}
+
+.job-search button {
+    padding: 10px 20px;
+    background-color: #a7c46a;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+.job-search button a {
+    color: white;
+    text-decoration: none;
+}
+
+.features {
+    margin-top: 30px;
+}
+
+.features ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+.cta-section {
+    background-color: rgb(134, 173, 173);
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.cta-buttons a {
+    padding: 10px 30px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+
+.contact-btn {
+    background-color: #4CAF50;
+}
+
+.browse-btn {
+    background-color: #810513;
+}
+
+footer {
+    padding: 20px;
+    color: #666;
+    font-size: 0.9em;
+    text-align: center;
+}

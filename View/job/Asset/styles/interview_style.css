@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(134, 173, 173);
+    font-family: Arial, sans-serif;
+}
+
+.top-bar {
+    text-align: center;
+    margin: 20px;
+}
+
+.dashboard-link {
+    padding: 6px 12px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.interview-box {
+    width: 600px;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.error-text {
+    color: red;
+    font-size: 0.9em;
+}
+
+.confirmation-text {
+    color: green;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.submit-cell {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.confirm-btn {
+    padding: 10px 20px;
+    background-color: #810513;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

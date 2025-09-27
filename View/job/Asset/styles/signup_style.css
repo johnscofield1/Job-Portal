@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(134, 173, 173);
+    font-family: Arial, sans-serif;
+}
+
+.nav-links {
+    text-align: center;
+    margin: 20px;
+}
+
+.btn {
+    margin: 0 10px;
+    padding: 6px 12px;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.green {
+    background-color: #4CAF50;
+}
+
+.darkgreen {
+    background-color: #235106;
+}
+
+.red {
+    background-color: #810513;
+    border: none;
+    cursor: pointer;
+}
+h1{
+    margin-left: -250px;
+}
+
+.signup-container {
+    width: 700px;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: left;
+}
+
+.signup-container h1 {
+    text-align: center;
+    color: #333;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="email"],
+input[type="tel"],
+input[type="password"],
+input[type="date"] {
+    width: 200px;
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid #aaa;
+}
+
+.error-text {
+    color: red;
+    font-size: 0.9em;
+}

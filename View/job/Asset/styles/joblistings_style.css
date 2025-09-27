@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(134, 173, 173);
+  font-family: Arial, sans-serif;
+}
+
+.main-field {
+  width: 800px;
+  background-color: antiquewhite;
+  border: none;
+  margin-top: 40px;
+  border-radius: 8px;
+}
+
+.heading {
+  color: #235106;
+  margin: 0;
+  padding: 20px;
+}
+
+.job-container {
+  padding: 30px;
+}
+
+.back-section {
+  background-color: rgb(134, 173, 173);
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+
+.back-btn {
+  padding: 10px 30px;
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.footer {
+  padding: 20px;
+  color: #666;
+  font-size: 0.9em;
+  text-align: center;
+}

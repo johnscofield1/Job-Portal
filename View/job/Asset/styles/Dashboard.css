@@ -1,0 +1,84 @@
+body {
+    background-color: rgb(134, 173, 173);
+    font-family: Arial, sans-serif;
+}
+
+.top-bar {
+    text-align: right;
+    margin: 20px;
+}
+
+.btn {
+    padding: 6px 12px;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+.green {
+    background-color: #4CAF50;
+}
+
+.red {
+    background-color: #810513;
+}
+
+.darkgreen {
+    background-color: #235106;
+}
+
+.dashboard-container {
+    width: 800px;
+    min-height: 500px;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.quick-actions {
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.action-link {
+    display: block; /* HTML এলিমেন্টটিকে block-level element হিসেবে */
+    padding: 15px;
+    color: white;
+    border-radius: 4px;
+    margin: 5px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+}
+
+.skyblue { background-color: #3dc4e6; }
+.maroon { background-color: #810513; }
+.green { background-color: #4CAF50; }
+.gold { background-color: #a47a1c; }
+.purple { background-color: #6c63ff; }
+.orange { background-color: #ff7043; }
+
+.summary-section {
+    margin: 10px;
+    text-align: left;
+    border-radius: 8px;
+}
+
+.summary-table {
+    width: 100%;
+}
+
+.summary-table td {
+    padding: 8px;
+}
+
+.status-active {
+    color: green;
+}
+
+.footer-actions {
+    margin-top: 30px;
+    text-align: center;
+}
